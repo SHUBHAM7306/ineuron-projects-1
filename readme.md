@@ -1,5 +1,5 @@
 ## PROJECT 1
-[live link](https://github.com/SHUBHAM7306/ineuron-projects-1.git )
+[live link](https://flourishing-vacherin-0d58af.netlify.app/)
 
 ---
 Name:- SHUBHAM KUAMAR
