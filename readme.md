@@ -1,5 +1,5 @@
 ## PROJECT 1
-[live link](https://flourishing-vacherin-0d58af.netlify.app/)
+[live link](https://shubham-live-class-project-1.netlify.app/)
 
 ---
 Name:- SHUBHAM KUAMAR
